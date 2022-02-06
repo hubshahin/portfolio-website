@@ -1,3 +1,8 @@
+#### This project is inspired by --> ####
+##### YouTube: https://www.youtube.com/watch?v=hQjlM-8C4Ps&ab_channel=LamaDev #####
+##### GitHub: https://github.com/safak/youtube/tree/react-portfolio-website #####
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
